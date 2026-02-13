@@ -2,5 +2,8 @@
     <string name="app_name">pruebaFinalM4</string>
     <string name="bienvenido">¡Bienvenido!</string>
     <string name="disfruta_de_tu_experiencia">Disfruta de tu experiencia</string>
+<<<<<<< HEAD
     <string name="entrar">Entrar</string>
+=======
+>>>>>>> 4a71150c90c2414fd922c31a6b2d23e972ec1810
 </resources>

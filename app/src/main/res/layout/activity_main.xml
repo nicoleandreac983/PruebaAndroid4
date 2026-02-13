@@ -36,6 +36,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
+<<<<<<< HEAD
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btnEntrar"
         android:layout_width="wrap_content"
@@ -55,4 +56,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
 
+=======
+>>>>>>> 4a71150c90c2414fd922c31a6b2d23e972ec1810
 </androidx.constraintlayout.widget.ConstraintLayout>
