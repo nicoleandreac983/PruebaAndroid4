@@ -9,8 +9,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class FormularioActivity extends AppCompatActivity {
 
-    EditText etNombre, etEmail;
-    Button btnEnviar;
+    private EditText etNombre, etEmail;
+    private Button btnEnviar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -18,8 +18,8 @@ public class FormularioActivity extends AppCompatActivity {
         setContentView(R.layout.activity_formulario);
 
         etNombre = findViewById(R.id.etNombre);
-        etEmail = findViewById(R.id.etEmail);
-        btnEnviar = findViewById(R.id.btnEnviar);
+        etEmail = findViewById(R.id.etCorreo);
+        btnEnviar = findViewById(R.id.btnCorreo);
 
         btnEnviar.setOnClickListener(v -> {
 
